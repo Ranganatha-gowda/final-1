@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 8yhy8
 =======
 hicegui
 >>>>>>> first
-=======
-8yhy8
->>>>>>> aa66bb6 (modified in master)

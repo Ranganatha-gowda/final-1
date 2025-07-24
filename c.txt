@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 buiodeu
 =======
 bhiofvbgh
 >>>>>>> first
-=======
-buiodeu
->>>>>>> aa66bb6 (modified in master)
