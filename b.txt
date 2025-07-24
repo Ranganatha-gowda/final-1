@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 	huioefugief
 =======
 hiorgfh
 >>>>>>> first
+=======
+	huioefugief
+>>>>>>> aa66bb6 (modified in master)

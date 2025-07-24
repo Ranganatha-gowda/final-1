@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 	ugiedfgui
 =======
 hioftrgvhio
 >>>>>>> first
+=======
+	ugiedfgui
+>>>>>>> aa66bb6 (modified in master)

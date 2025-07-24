@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 giufewq
 =======
 jubdhio
 >>>>>>> first
+=======
+giufewq
+>>>>>>> aa66bb6 (modified in master)

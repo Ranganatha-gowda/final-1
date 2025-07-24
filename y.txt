@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 8ohohi
 =======
 hiotghiox
 >>>>>>> first
+=======
+8ohohi
+>>>>>>> aa66bb6 (modified in master)

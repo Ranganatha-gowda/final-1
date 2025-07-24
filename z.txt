@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 guig
 =======
 hiotghio
 >>>>>>> first
+=======
+guig
+>>>>>>> aa66bb6 (modified in master)
